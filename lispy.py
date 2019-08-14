@@ -7,7 +7,7 @@ from werkzeug.contrib.cache import MemcachedCache
 from werkzeug.datastructures import ImmutableOrderedMultiDict
 
 from flask import Flask, jsonify, request, send_file, redirect, url_for
-from flask.ext.mail import Mail, Message
+from flask_mail import Mail, Message
 
 try:
     # For Python 3.0 and later
