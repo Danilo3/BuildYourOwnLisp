@@ -1,10 +1,13 @@
 Build your own Lisp
 ===================
 
-http://buildyourownlisp.com
+Original: http://buildyourownlisp.com
+Russian Translation: http://danilo.pythonanywhere.com/ (Choose Russian in left bottom corner)
 
 About
 -----
+This is a fork of great and popular book from Daniel Holden. The aim of project - translate all book to Russian Language.
+
 
 This is the HTML and website code for the book of the above title.
 
